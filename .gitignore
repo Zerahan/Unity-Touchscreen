@@ -1,0 +1,28 @@
+#################
+## Basic ignores
+#################
+*.lnk
+*.wz
+*.zip
+*.7z
+
+
+#################
+## Unity
+#################
+
+# Unity .gitignore file.
+*.dwlt
+*.dll
+*.mdb
+*.csproj
+*.sln
+*.userprefs
+*.pidb
+*.DS_Store
+*Temp/
+*Build/
+*Builds/
+*obj/
+*Library/
+Thumbs.db
